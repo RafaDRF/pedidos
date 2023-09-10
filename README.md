@@ -1,4 +1,4 @@
-# Pedidos, atividade prática de OO e TDD
+# Pedidos, atividade prática de OOP e TDD
 
 As regras implementadas são:
 
